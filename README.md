@@ -1,6 +1,6 @@
 # RoadSafe 🚗
 
-RoadSafe is an advanced computer vision system that detects vehicular accidents in real-time using CCTV footage and automatically alerts authorities to reduce emergency response times.
+RoadSafe is a computer vision model that can detect vehicular accidents in real-time using CCTV footage and automatically alerts authorities to reduce emergency response times.
 
 ## 🎯 Features
 
@@ -32,7 +32,7 @@ RoadSafe is an advanced computer vision system that detects vehicular accidents 
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/RoadSafe.git
+git clone https://github.com/sidtum/RoadSafe.git
 cd RoadSafe
 ```
 
